@@ -1,2 +1,2 @@
-# Er-U-G-Pathak
-Static Website1
+# Er-U-G-Pathak hello
+Static Website
